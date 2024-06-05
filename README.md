@@ -42,5 +42,17 @@ Step-4 :
 * ![11](https://github.com/Digisoft-Noida/firebase-flutter/assets/171772732/784984e9-213a-40a3-876c-3be386e875fc)
 * Rename Project Name
 * ![12](https://github.com/Digisoft-Noida/firebase-flutter/assets/171772732/5db2edd2-717b-421a-a749-137cb5c03203)
-* 
+* Create code from in Code.gs file
+* And change spreadsheetID: "1URr9bS6lu83C3Td9kJf6sEqblnejqfFmQpjGHyv0TKg", And firebaseUrl: "https://project1-52af0-default-rtdb.firebaseio.com/",
+* ![13](https://github.com/Digisoft-Noida/firebase-flutter/assets/171772732/2f190a31-b769-493b-b6bf-a764ef1109a2)
+* ![14](https://github.com/Digisoft-Noida/firebase-flutter/assets/171772732/44274016-4864-4cb3-b51b-d53838d166b4)
+* Go to Project setting open and checkbox (Show "appsscript.json" manifest file in editor) Option.
+* ![15](https://github.com/Digisoft-Noida/firebase-flutter/assets/171772732/ec67acad-08b3-4f91-8ea9-28695f3cf243)
+* Go to editor and click [appsscript.json].
+* create code from [appsscript.json].
+
+Step-5 :
+* Go to GetEnvironment and select initialize option
+* On click Run Button
+* ![16](https://github.com/Digisoft-Noida/firebase-flutter/assets/171772732/40b49c5a-3f5b-4328-a938-0ee7ca187636)
 
