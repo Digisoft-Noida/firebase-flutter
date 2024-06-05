@@ -55,4 +55,11 @@ Step-5 :
 * Go to GetEnvironment and select initialize option
 * On click Run Button
 * ![16](https://github.com/Digisoft-Noida/firebase-flutter/assets/171772732/40b49c5a-3f5b-4328-a938-0ee7ca187636)
+* Verify Account and.
+* Go to firebase and show the all data .
+* ![17](https://github.com/Digisoft-Noida/firebase-flutter/assets/171772732/e1e1f3e9-2df8-45b8-9c2d-64e37117d21f)
+* Import data from firebase.
+
+
+  End_________
 
