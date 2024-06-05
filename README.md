@@ -33,4 +33,14 @@ Step-3 :
 * Create Realtime Database Name
 * ![9](https://github.com/Digisoft-Noida/firebase-flutter/assets/171772732/47d278f6-5243-453a-b17e-288cf4686403)
 * Setup database is enable.
-* you go now  
+* you go now realtime database and select rules tab and convert false statement true both and click publish button.
+* ![10](https://github.com/Digisoft-Noida/firebase-flutter/assets/171772732/84f4d92b-af74-4b2b-95bb-28d68ff8d59a)
+* then come data tab
+
+Step-4 :
+* Go to google sheet and select Appscript from the extension main menu.
+* ![11](https://github.com/Digisoft-Noida/firebase-flutter/assets/171772732/784984e9-213a-40a3-876c-3be386e875fc)
+* Rename Project Name
+* ![12](https://github.com/Digisoft-Noida/firebase-flutter/assets/171772732/5db2edd2-717b-421a-a749-137cb5c03203)
+* 
+
