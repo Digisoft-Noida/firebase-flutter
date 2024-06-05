@@ -14,4 +14,6 @@ Step-2 :
 * Open Google Chrome Browser.
 * Click the link [https://firebase.google.com/].
 * click (Go To Console) button given the top right side.
-![2](https://github.com/Digisoft-Noida/firebase-flutter/assets/171772732/888d60f8-6a06-435f-827a-4b2c286c956d)
+* ![2](https://github.com/Digisoft-Noida/firebase-flutter/assets/171772732/888d60f8-6a06-435f-827a-4b2c286c956d)
+* Create Add New Project click
+* ![3](https://github.com/Digisoft-Noida/firebase-flutter/assets/171772732/df6142ad-1aa7-4d3a-91dc-40a61e3de6a2)
